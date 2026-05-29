@@ -2231,6 +2231,33 @@
             "Joost","Hendrika","Marten","Anke","Guus","Mr. X","Dr Grijs","Willem","Thijs","Neef"
         ]
     },
+	{
+        "name": "New Zealand",
+        "leaderName": "Michael Joseph Savage",
+        "adjective": ["Kiwi"],
+        "startIntroPart1": "Michael Joseph Savage, your people welcome you! You are the most revered leader of New Zealand, a small British colony in the South Pacific. Through your time as a labourer in many jobs across the country, you saw the plight of your people and pledged to improve their lives. Becoming involved in Unions and Left-Wing political parties, you rose through the ranks and became a founding member in the newly-formed Labour party. After entering parliament in the twenties, you became instantly recognisable across the country, and respected for your kindly nature. You became an iconic figure in the wake of the Great Depression, and swept to victory against the failing right wing. From your new position in power, you imposed vast reforms to aid even the most vulnerable in your society, earning you a place in the hearts of all New Zealanders for decades to come. You fought for New Zealanders both domestically and internationally until your dying breath. Upon the outbreak of hostilities you stood proud alongside Britain against tyranny, a move that would shape national identity just as much as your reforms.",
+        "startIntroPart2": "Prime Minister Savage, New Zealand has fallen on dark times. She no longer looks after her most vulnerable, and she has lost her way. The country needs a figure to restore it to greatness and a bastion of humanitarianism. Can you be that figure? Will you lead New Zealand out of the dark once more? Can you build a civilisation that can stand the test of time?",
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "Your warmongering has no place in a civilised society, and now you have brought death to one. What will your children think?",
+        "introduction": "Kia Ora, how are you? Please make yourself at home, and let me know what I can do to help!",
+        "neutralHello": "",
+        "hateHello": "",
+        "tradeRequest": "",
+        "outerColor": [255, 220, 220],
+        "innerColor": [255, 158, 128],
+        "uniqueName": "Where She Goes",
+        "uniques": ["Comment [Earn 10 Faith, 6 Culture, 40 Gold, or 12 Science when meeting a Civilization or City-State for the first time. (Chosen randomly)]"],
+        "cities": [
+            "Wellington", "Auckland", "Christchurch", "Hamilton", "Dunedin", "Napier", "Rotorua", "Greymouth", "Nelson", "Plamerston North", 
+            "Whangarei", "Porirua", "Waiouru", "Ashburton", "New Plymouth", "Taumaranui", "Taupo", "Devonport", "Invercargill", "Tauranga", 
+            "Hastings", "Wanganui", "Alexandra", "Paeroa", "Timaru", "Tokoroa", "Lower Hutt", "Masterton", "Gisborne", "Upper Hutt", "Oamuru", 
+            "Rangiora", "Bulls", "Huntly", "Hokitika", "Eketahuna", "Haast", "Thames", "Dargaville", "Fairlie"
+        ],
+        "spyNames": [
+            "Dave","Neil","Fred","Winston","Sam","Chris","Helen","Jenny","Ella","Anna"
+        ]
+    },
     {
         "name": "Normandy",
         "leaderName": "William the Conqueror",
